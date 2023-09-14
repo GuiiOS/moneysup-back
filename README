@@ -1,0 +1,5 @@
+Back-end do meu projetinho fullstack para controlar meu dinheiro escasso.
+
+O back-end foi feito com NodeJs, express, typescript, TypeOrm, MySql, autenticação com JWT e bcrypt.
+
+Pretendo ainda fazer a versão web com NextJs e a versão mobile com Flutter.
